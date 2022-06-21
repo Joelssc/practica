@@ -1,0 +1,122 @@
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\appsettings.json
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Prueba2ApiRest.exe
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Prueba2ApiRest.deps.json
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Prueba2ApiRest.runtimeconfig.json
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Prueba2ApiRest.runtimeconfig.dev.json
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Prueba2ApiRest.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\ref\Prueba2ApiRest.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Prueba2ApiRest.pdb
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.csproj.AssemblyReference.cache
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.AssemblyInfoInputs.cache
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.AssemblyInfo.cs
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.csproj.CoreCompileInputs.cache
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\staticwebassets\Prueba2ApiRest.StaticWebAssets.Manifest.cache
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\staticwebassets\Prueba2ApiRest.StaticWebAssets.xml
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\scopedcss\bundle\Prueba2ApiRest.styles.css
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.RazorTargetAssemblyInfo.cache
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.csproj.CopyComplete
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\ref\Prueba2ApiRest.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.pdb
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.genruntimeconfig.cache
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Humanizer.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\jssc\Desktop\Practicas\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\appsettings.json
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Prueba2ApiRest.exe
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Prueba2ApiRest.deps.json
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Prueba2ApiRest.runtimeconfig.json
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Prueba2ApiRest.runtimeconfig.dev.json
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Prueba2ApiRest.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\ref\Prueba2ApiRest.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Prueba2ApiRest.pdb
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Humanizer.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.csproj.AssemblyReference.cache
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.AssemblyInfoInputs.cache
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.AssemblyInfo.cs
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.csproj.CoreCompileInputs.cache
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\staticwebassets\Prueba2ApiRest.StaticWebAssets.Manifest.cache
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\staticwebassets\Prueba2ApiRest.StaticWebAssets.xml
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\scopedcss\bundle\Prueba2ApiRest.styles.css
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.RazorTargetAssemblyInfo.cache
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.csproj.CopyComplete
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\ref\Prueba2ApiRest.dll
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.pdb
+C:\Users\jssc\Desktop\Practicas Net Core\Prueba2ApiRest\Prueba2ApiRest\obj\Debug\net5.0\Prueba2ApiRest.genruntimeconfig.cache

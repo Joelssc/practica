@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Prueba2ApiRest",
+    "\\Prueba2ApiRest\\Controllers",
+    "\\Prueba2ApiRest\\Data",
+    "\\Prueba2ApiRest\\Logica",
+    "\\Prueba2ApiRest\\Models",
+    "\\Prueba2ApiRest\\Models\\ConexionBd"
+  ],
+  "SelectedNode": "\\Prueba2ApiRest\\Controllers\\ProductoController.cs",
+  "PreviewInSolutionExplorer": false
+}
